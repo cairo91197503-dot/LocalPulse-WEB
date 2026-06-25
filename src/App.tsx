@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from "react-router";
+import { HashRouter as Router, Routes, Route, Link, useLocation } from "react-router";
 import { Home, Sparkles, QrCode, LogOut, Settings, GraduationCap } from "lucide-react";
 import Dashboard from "./pages/Dashboard";
 import Diagnosis from "./pages/Diagnosis";
